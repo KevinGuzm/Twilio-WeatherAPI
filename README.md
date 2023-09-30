@@ -13,6 +13,10 @@ requests==2.22.0
 tqdm==4.62.3`):
   - requests: Para realizar solicitudes HTTP a la API de WeatherAPI.
   - twilio: Para enviar mensajes de texto a través de la plataforma Twilio.
+`TWILIO_ACCOUNT_SID ='XXXXXXXXXXX'
+TWILIO_AUTH_TOKEN ='XXXXXXXXXXX'
+PHONE_NUMBER ='+XXXXXXXXXXX'
+API_KEY_WAPI = 'XXXXXXXXXXX'`
 
 ## Configuración
 
