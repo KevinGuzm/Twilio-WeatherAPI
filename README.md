@@ -26,7 +26,8 @@ Antes de ejecutar la aplicación, asegúrate de configurar adecuadamente los sig
 
 ## Uso
 
-Una vez que hayas configurado los parámetros, puedes ejecutar la aplicación con el siguiente comando:
+Una vez que hayas configurado los parámetros, puedes ejecutar la aplicación manualmente con el siguiente comando:
 
 ```bash
-python main.py
+python3 twilio_script.py
+
