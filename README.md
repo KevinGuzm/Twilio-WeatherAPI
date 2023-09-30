@@ -7,7 +7,10 @@ Este proyecto es una aplicación de Python que automatiza el envío de mensajes 
 Asegúrate de tener instalados los siguientes elementos antes de ejecutar la aplicación:
 
 - Python 3.x
-- Paquetes Python requeridos (se pueden instalar usando `pip install nombre-del-paquete`):
+- Paquetes Python requeridos (se pueden instalar usando `twilio==7.14.0
+pandas==1.3.4
+requests==2.22.0
+tqdm==4.62.3`):
   - requests: Para realizar solicitudes HTTP a la API de WeatherAPI.
   - twilio: Para enviar mensajes de texto a través de la plataforma Twilio.
 
